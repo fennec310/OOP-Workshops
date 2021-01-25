@@ -10,6 +10,7 @@
 #include "cstring.h"
 using namespace sdds;
 using namespace std;
+
 int main() {
    char str1[80] = "abcdefghijklmnopqrstuvwxyz";
    char str2[80];
@@ -22,6 +23,8 @@ int main() {
    cout << str2 << endl;
    strnCpy(str2, "@@@", 4);
    cout << str2 << endl;
+
+   /*
    cout << strCmp("aab", "aaa") << endl;
    cout << strnCmp("aab", "aaa", 2) << endl;
    cout << strnCmp("aab", "aaa", 3) << endl;
@@ -35,4 +38,5 @@ int main() {
    strCat(str2, "Doe");
    cout << str2 << endl;
    return 0;
+   */
 }

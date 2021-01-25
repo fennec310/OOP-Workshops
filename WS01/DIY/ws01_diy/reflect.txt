@@ -1,0 +1,31 @@
+// workshop01 reflection
+// Name: Juhee Lee
+// Seneca email : jlee651@myseneca.ca
+// student ID : 128261203
+//
+I had a good practice of learning basic and important factors of C++ programming 
+by doing workshop lab assignment. first, C++ is modular programming, I made header
+files for declaring function prototypes and structure, and its implementation files 
+which define the functions and include the header file. Each module deals with the 
+same or similar solution of the programming. The second thing I did learn is Namespace. 
+I put them in both header and cpp file. Namespace is a very useful feature of C++,
+because it let me use separate code in the scope of the namespace I put. This will 
+be helpful to write code when multi-programmer work on the same program. The third thing 
+I learned, I should avoid defining the same structure in a different module, and also it 
+should be written in a header file. one of biggest difference I noticed between C and 
+C++ language is that C++ use <iostream> library to standard input/output. C language use 
+function of the <stdio.h> library, but C+ use object from <iostream> library.
+
+Workshop DIY assignment, I had to make a few c string functions instead of using c string
+library. I spent quite a time making strStr() function. if I strStr(“abcbde”, “bd”); , 
+I had to think when it is found “bc” and “bd” isn’t match, then I want it to keep 
+searching it from c of the first string. To solve this, I made two more char* variables 
+to compare both strings' letter when it found a matching letter at some point. So, the 
+original string address won’t be changed and those new variables will visit the next 
+letters to find out if the leftover letters are matched or not. When I tested strStr, I 
+tried to run cout << fadd << endl; code when fadd was assigned nullptr. I wanted to know 
+if it will show null or nullptr value on prompt. But It stopped running the program. So, 
+I debugged the code to find out what kind of error it is, and it showed access error because 
+of the type of its value. So I understood why test program used if (!fadd) cout << "Not found" << endl;
+
+
