@@ -1,8 +1,8 @@
-// Workshop 1 _ DIY
+// Workshop 2 _ lab
 // Name: Juhee Lee
 // Seneca email : jlee651@myseneca.ca
 // student ID : 128261203
-// Date: 2021/01/24
+// Date: 2021/01/27
 ////////////////////////////////////////////////
 
 #include <iostream>

@@ -1,3 +1,10 @@
+// Workshop 1 _ Lab
+// Name: Juhee Lee
+// Seneca email : jlee651@myseneca.ca
+// student ID : 128261203
+// Date: 2021/01/19
+////////////////////////////////////////////////
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <cstdio>
 #include <iostream>

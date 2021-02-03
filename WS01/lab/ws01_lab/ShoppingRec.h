@@ -1,6 +1,11 @@
-
-#ifndef SHOPPINGREC_H // include guard
-#define SHOPPINGREC_H
+// Workshop 1 _ Lab
+// Name: Juhee Lee
+// Seneca email : jlee651@myseneca.ca
+// student ID : 128261203
+// Date: 2021/01/19
+////////////////////////////////////////////////
+#ifndef SDDS_SHOPPINGREC_H // include guard
+#define SDDS_SHOPPINGREC_H
 
 namespace sdds {
 

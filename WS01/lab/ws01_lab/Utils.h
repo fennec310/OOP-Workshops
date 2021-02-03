@@ -1,6 +1,11 @@
-
-#ifndef UTILS_H // include guard
-#define UTILS_H
+// Workshop 1 _ Lab
+// Name: Juhee Lee
+// Seneca email : jlee651@myseneca.ca
+// student ID : 128261203
+// Date: 2021/01/19
+////////////////////////////////////////////////
+#ifndef SDDS_UTILS_H // include guard
+#define SDDS_UTILS_H
 
 namespace sdds {
 

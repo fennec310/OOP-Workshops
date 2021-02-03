@@ -1,6 +1,11 @@
-#pragma once
-#ifndef CSTRING_H
-#define CSTRING_H
+// Workshop 2 _ lab
+// Name: Juhee Lee
+// Seneca email : jlee651@myseneca.ca
+// student ID : 128261203
+// Date: 2021/01/27
+////////////////////////////////////////////////
+#ifndef SDDS_CSTRING_H
+#define SDDS_CSTRING_H
 
 
 namespace sdds {
